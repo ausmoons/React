@@ -9,26 +9,29 @@ const App = () => {
   ]) 
   const [ newName, setNewName ] = useState('')
   const [ newPhone, setNewPhone ] = useState('')
-
-let resultArray = []
+ 
   const search = (event) => {
-   // console.log(event.target.value.name)
-    const result = persons.filter(item => item.name.includes(event.target.value))
-    resultArray.push(result);
-    console.log(result.length)
-    console.log(resultArray)
+console.log(event.target.value)
+ 
+
+   const  result = persons.filter(item => item.name.toLocaleLowerCase().includes(event.target.value))  
+   console.log(result.length)
+
+   if(result.length === 0) {
+    setPersons(persons)
+   }
+   else {
+    setPersons(result)
+   }
+   
+  
+   
   }
 
- console.log(resultArray.length)
-
- const personsToShow = resultArray.length === 0 ? persons : resultArray
-
-
-   const rows = () => personsToShow.map(person => 
-   <div key={person.id}>
-        <li>{person.name} {person.phone}</li>
-   </div>)
-
+  const rows = () => persons.map(person => 
+  <div key={person.id}>
+       <li>{person.name} {person.phone}</li>
+  </div>)
 
 
 
