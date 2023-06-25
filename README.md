@@ -27,6 +27,7 @@
 - Pievienot iespēju atzīmēt uzdevumu kā svarīgu (ar pogas klikšķi nomainīt stilu). 
 - Pievienot iespēju meklēt uzdevumus. 
 - Pievienot loģiku, lai izveidotu post requests uz "https://dummyjson.com/todos/add".
+- Pēc paraga izveidot līdzīgu aplikāciju par tēmu - blogs
 
 
 # Getting Started with Create React App
