@@ -2,6 +2,7 @@
 - **Node**  https://nodejs.org/en/download (JavaScript runtime environment)
 - **React Developer Tools** https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi- 
 - **Aplikācijas izveide** -  https://create-react-app.dev/
+- Klonējot repozitoriju - npm install
 
 # Teorija
 - https://www.geeksforgeeks.org/what-are-the-differences-between-npm-and-npx/
