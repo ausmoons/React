@@ -1,6 +1,6 @@
 # Sagatavošanās
 - **Node**  https://nodejs.org/en/download (JavaScript runtime environment)
-- **React Developer Tools** https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi- 
+- **React Developer Tools** https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
 - **Aplikācijas izveide** -  https://create-react-app.dev/
 - Klonējot repozitoriju - npm install
 
