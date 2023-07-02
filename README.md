@@ -21,6 +21,7 @@
 - https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
 - https://egghead.io/courses/the-beginner-s-guide-to-react
 - https://www.geeksforgeeks.org/getting-started-with-reactjs-a-complete-guide-for-beginners/
+- https://dev.to/aminnairi/the-5-pillars-of-every-http-request-18ld
 
 # Uzdevumi 
 - Izveidot componenti AddTask un ielikt tur kodu no esošā form iekš App.js.
