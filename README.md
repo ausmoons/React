@@ -30,6 +30,9 @@
 - Pievienot loģiku, lai izveidotu post requests uz "https://dummyjson.com/todos/add".
 - Pēc paraga izveidot līdzīgu aplikāciju par tēmu - blogs
 
+## Interesanti
+- https://dev.to/nziokidennis/react-a-comprehensive-guide-to-beginners-1nh0
+
 
 # Getting Started with Create React App
 
