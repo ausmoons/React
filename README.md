@@ -33,6 +33,7 @@
 
 ## Interesanti
 - https://dev.to/nziokidennis/react-a-comprehensive-guide-to-beginners-1nh0
+- https://dev.to/mohammadfaisal/21-best-practices-for-a-clean-react-project-jdf
 
 
 # Getting Started with Create React App
